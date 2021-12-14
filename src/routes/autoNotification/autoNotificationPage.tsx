@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Button from '../../atom/Button';
+import Button from '../../components/atom/Button';
 
 function AutoNotificationPage() {
   return (
